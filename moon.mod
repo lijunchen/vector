@@ -1,3 +1,3 @@
-module "junchen/vector"
+module "github.com/lijunchen/vector"
 
-require https://github.com/lijunchen/option v1
+require github.com/lijunchen/option v0.0.0
